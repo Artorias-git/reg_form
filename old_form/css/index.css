@@ -1,0 +1,49 @@
+.form-control {
+	margin: 5px;
+	margin-bottom: 10px;
+}
+.input-content {
+	border: 1px solid black;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.form-conference--outer {
+	display: flex;
+	justify-content: center;
+}
+
+.form-conference--inner {
+    display: inline-block;
+	width: 50%;
+}
+.form-place {
+	background-color: rgb(205, 213, 255);
+    border: 6px ridge rgba(47, 83, 245, 0.6);
+    padding: 5px;
+	font-family: sans-serif;
+
+}
+
+.success_message {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+
+	height: 50px;
+	font-family: sans-serif;
+    text-align: center;
+	background-color: greenyellow;
+}
+
+.error_message {
+	border: 2px solid rgb(252, 0, 0);
+	padding: 5px;
+	margin: 5px;
+
+	height: 30px;
+	font-family: sans-serif;
+    text-align: center;
+}

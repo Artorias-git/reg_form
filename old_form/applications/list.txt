@@ -1,0 +1,4 @@
+
+name Artorias|lastname asdasdsada|email kostik14052002@mail.ru|phone +7 (950) 066-52-35|theme Технологии|money WebMoney|mailing on|processing on|reg_date 11-05-2023|deleted false
+name rset|lastname jghjv|email kostik14052002@mail.ru|phone +7 (950) 066-52-35|theme Технологии|money WebMoney|mailing on|processing on|reg_date 11-05-2023|deleted false
+name asczxdf|lastname asfasfa|email kostik14052002@mail.ru|phone +7 (950) 066-52-35|theme Технологии|money WebMoney|mailing on|processing on|reg_date 11-05-2023|deleted false
