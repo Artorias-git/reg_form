@@ -1,0 +1,5 @@
+id 645ec111e6b54|name 1|lastname 4|email kostik14052002@mail.ru|phone +5567090000000|theme Технологии|money WebMoney|mailing on|processing on|reg_date 13-05-2023|deleted 1
+id 645ec114a0c94|name 2|lastname 4|email kostik14052002@mail.ru|phone +5567090000000|theme Технологии|money WebMoney|mailing on|processing on|reg_date 13-05-2023|deleted 1
+id 645ec117c743e|name 3|lastname 4|email kostik14052002@mail.ru|phone +5567090000000|theme Технологии|money WebMoney|mailing on|processing on|reg_date 13-05-2023|deleted 1
+id 645ec11b0faea|name 4|lastname 4|email kostik14052002@mail.ru|phone +5567090000000|theme Технологии|money WebMoney|mailing on|processing on|reg_date 13-05-2023|deleted 1
+id 645ec11e1f3dc|name 5|lastname 4|email kostik14052002@mail.ru|phone +5567090000000|theme Технологии|money WebMoney|mailing on|processing on|reg_date 13-05-2023|deleted 1
